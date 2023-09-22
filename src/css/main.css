@@ -1,0 +1,43 @@
+.container {
+    max-width: 1530px;
+}
+body {
+    background: #272a2f;
+}
+.nav-link:hover {
+    color: #fae502 !important;
+}
+.nav-link {
+    color: #fffeef !important;
+}
+.nav-link--act {
+    color: #fffeef !important;
+}
+.card-btn {
+    background: #59698b;
+    border-color:#7e94c2;
+    position: absolute;
+    right: 7%;
+    bottom: 5%;
+}
+.card-btn:hover {
+    background: #60729d;
+    border-color:#7e94c2;
+}
+.navbar-brand {
+    color: #ffea00 !important;
+}
+.accordion-button:not(.collasped) {
+    background-color: rgba(0, 0, 0, 0) !important;
+    box-shadow: none !important;
+}
+.accordion-button {
+    background-color: rgba(0, 0, 0, 0) !important;
+    box-shadow: none !important;
+}
+.yellow {
+    background-color: #ffea00 !important;
+}
+.yellow-font {
+    color: #fae502 !important;
+}
